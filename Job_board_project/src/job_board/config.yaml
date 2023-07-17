@@ -1,0 +1,39 @@
+job_titles:
+  - job_title:
+      extract:
+        title: "Data Analyst"
+
+      load:
+        file: 
+          load_target: "file"
+          target_file_directory: "job_board/data"
+          target_file_name: "data_analyst.parquet"
+        database:
+          load_target: "database"
+          target_table_name: "data_analyst_job"
+
+  - job_title: 
+      extract:
+        title: "Data Engineer"
+
+      load:
+        file: 
+          load_target: "file"
+          target_file_directory: "job_board/data"
+          target_file_name: "data_engineer.parquet"
+        database:
+          load_target: "database"
+          target_table_name: "data_engineer_job"
+  
+  - job_title: 
+      extract:
+        title: "Data Scientist"
+
+      load:
+        file: 
+          load_target: "file"
+          target_file_directory: "job_board/data"
+          target_file_name: "data_scientist.parquet"
+        database:
+          load_target: "database"
+          target_table_name: "data_scientist_job"
