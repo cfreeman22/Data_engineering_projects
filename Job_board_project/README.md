@@ -386,7 +386,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 **Christian Freeman** -  [@Linkedin](https://www.linkedin.com/in/christian-freeman-r/)
 
-**Project Link:** [https://github.com/mddan/job_board](https://github.com/mddan/job_board)
+**Project Link:** [https://github.com/cfreeman22/Data_engineering_projects/tree/main/Job_board_project](https://github.com/cfreeman22/Data_engineering_projects/tree/main/Job_board_project)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
